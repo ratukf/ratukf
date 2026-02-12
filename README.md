@@ -1,10 +1,24 @@
-## 👋 Hi, I'm Ratu — Front-End Developer
+## Software Engineer (Frontend Heavy)
 
-I'm a front-end developer with ~1 year of experience, passionate about crafting clean and intuitive interfaces.
+I work mostly with **React**, **MUI**, **Axios**, and **Redux** and currently working on a dummy e-commerce project (([Exclusive](https://ecommerce-exclusive-one.vercel.app/))). 
 
-- 💻 I work mostly with **React**, **MUI**, and **Axios**
-- 🎨 I enjoy designing user-centric UIs with performance in mind
-- 🧠 Constantly learning — currently exploring **Next.js**, **Tailwind**, and front-end architecture
-- ⚡ I value clean code, meaningful UX, and building products that solve real problems
+I build web apps while learning how to implement best coding practices, integrate frontend with APIs, optimize app performance, and continuously learn new technologies through hands-on projects.
 
-I'm open to remote opportunities, especially where I can grow, contribute, and collaborate with great teams 🌍
+# Tech Stack
+- **Frontend**: HTML/CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind, MUI 
+- **Backend**: Node.js, NestJS, PHP, PostgreSQL, MySQL
+
+# Highlighted projects
+
+- ([Coffee Shop Web](https://coffee-shop-nextjs-2.vercel.app/))
+User checkout flow from login to payment including cart management.
+  
+- ([Ecommerce Web](https://ecommerce-exclusive-one.vercel.app/))
+Implemented user authentication with Google, GitHub, or email/password login.
+
+- ([Company Web](https://ratukf.github.io/SmartVillageNusantara/))
+Translated Figma designs into a fully responsive front-end. 
+
+# Get in Touch
+- Email: ratukf@gmail.com
+- Linkedin: ([Ratu Kila](https://id.linkedin.com/in/ratukila))
