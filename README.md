@@ -1,6 +1,6 @@
 ## Software Engineer (Frontend Heavy)
 
-Software Engineer with hands-on experience building and maintaining enterprise-level Wealth Management web applications. I developed 10+ frontend modules from scratch and optimized performance across 20+ modules while also expanding into backend development by utilizing React.js, Material UI, Axios, webpack, and Redux.
+Software Engineer with hands-on experience building and maintaining enterprise-level Wealth Management web applications. I developed 10+ frontend modules from scratch and optimized performance across 20+ modules by utilizing React.js, Material UI, Axios, webpack, and Redux while also expanding into backend development in Node.js and NestjS.
 
 - Optimized API performance across 5–10 modules, improving load times significantly
 - Built reusable components to reduce duplication and dev time that deployed across 10+ modules
