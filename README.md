@@ -1,6 +1,6 @@
 ## Software Engineer (Frontend Heavy)
 
-Software Engineer with hands-on experience building and maintaining enterprise-level Wealth Management web applications. I developed 10+ frontend modules from scratch and optimized performance across 20+ modules by utilizing React.js, Material UI, Axios, webpack, and Redux while also expanding into backend development in Node.js and NestjS.
+Software Engineer with hands-on experience building and maintaining enterprise-level Wealth Management web applications. I developed 10+ frontend modules from scratch and optimized performance across 20+ modules by utilizing React.js, Material UI, Axios, webpack, and Redux while also expanding into backend development in Node.js and NestJS.
 
 - Optimized API performance across 5–10 modules, improving load times significantly
 - Built reusable components to reduce duplication and dev time that deployed across 10+ modules
@@ -20,7 +20,7 @@ A modern e-commerce web app to demonstrate online store features such as authent
 
 A web application that simulates a coffee shop experience, focusing on product browsing, cart management, and checkout flow logic without real backend integration built with Next.js, jotai, vite, tailwind, and NextUI.
 
-- [Inventory Management](https://ratukf.github.io/SmartVillageNusantara/](https://github.com/ratukf/Inventory-Management)
+- [Inventory Management](https://github.com/ratukf/Inventory-Management)
 
 A backend project for managing products and orders with stock validation to demonstrate data relation between products, orders, and ordered item built with Node.js, Express, Prisma, PostgreSQL.
 
