@@ -37,15 +37,15 @@ Software Engineer (Frontend Heavy) with 1+ year hands-on experience
 
 - [Ecommerce Web](https://ecommerce-exclusive-one.vercel.app/)
 
-A modern e-commerce web app built with React, TypeScript, Vite, Material UI, Firebase, and Node.js to demonstrate complex state management and bulk database handling
+Modern e-commerce web app built with React, TypeScript, Vite, Material UI, Firebase, and Node.js to demonstrate complex state management and bulk database handling
 
 - [Coffee Shop Web](https://coffee-shop-nextjs-2.vercel.app/)
 
-An interactive web app built with Next.js, vite, tailwind, NextUI, and jotai to demonstrate client-side performance for lightweight state management without heavy re-renders
+Interactive web app built with Next.js, vite, tailwind, NextUI, and jotai to demonstrate client-side performance for lightweight state management without heavy re-renders
 
 - [Inventory Management](https://github.com/ratukf/Inventory-Management)
 
-A robust system for tracking products, orders, and stock validation logic built with Node.js, Express, Prisma, and PostgreSQL to demonstrate a reliable relational data schema that ensures 100% stock accuracy
+Robust system for tracking products, orders, and stock validation logic built with Node.js, Express, Prisma, and PostgreSQL to demonstrate a reliable relational data schema that ensures 100% stock accuracy
 
 ---
 
