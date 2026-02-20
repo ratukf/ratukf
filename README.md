@@ -1,4 +1,4 @@
-## <> About Me </>
+## </> About Me </>
 
 Software Engineer (Frontend Heavy) with 1+ year hands-on experience
 
