@@ -1,6 +1,6 @@
-## Software Engineer (Frontend Heavy)
+## <> About Me </>
 
-Software Engineer with 1+ year hands-on experience
+Software Engineer (Frontend Heavy) with 1+ year hands-on experience
 
 - Developed 10+ Wealth Management web application modules in a micro-frontend environment from scratch and maintained 20+ existing modules for better performance
 - Resolved dozens of production bugs and hundreds of development bugs in an enterprise environment
